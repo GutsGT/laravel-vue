@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <h2>Hello Vue.js</h2>
+    <h2>Products from Vue</h2>
     {{ name }}
     <input type="text" v-model="name">
 </template>
